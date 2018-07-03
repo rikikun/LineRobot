@@ -35,6 +35,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>com.linecorp.bot</groupId>
+			<artifactId>line-bot-spring-boot</artifactId>
+			<version>1.19.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
